@@ -1,5 +1,5 @@
 {
-    "name": "WIBEEX-Wa",
+    "name": "Rikzz-Wa",
     "version": "X",
     "description": "BOT PARA ELIMINAR NOVATOS | WIBEEX",
     "main": "index.js",
@@ -11,7 +11,7 @@
         "whiskeysockets",
         "multi-device"
     ],
-    "author": "WIBEEX",
+    "author": "RikzzZhiro",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
