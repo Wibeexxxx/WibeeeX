@@ -1,7 +1,7 @@
 {
-    "name": "Rikzz-Wa",
+    "name": "WibeeX-Wa",
     "version": "X",
-    "description": "AI-powered WhatsApp Bot - Simple, Fast, and Efficient! | RikzzZhiro",
+    "description": "BOT PARA ELIMINAR NOVATOS | WIBEEX",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -11,7 +11,7 @@
         "whiskeysockets",
         "multi-device"
     ],
-    "author": "RikzzZhiro",
+    "author": "WIBEEX",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
