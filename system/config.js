@@ -1,17 +1,17 @@
 /*
 ┏━━━━━━━━━━━━━━━┓  
-┃ RIKZZ BASE - WHATSAPP     
+┃ WIBEEX BASE - WHATSAPP     
 ┣━━━━━━━━━━━━━━━┛
-┃♕ Creator: RikzzZhiro           
+┃♕ Creator: WILBERT           
 ┃♕ AI Helper: ChatGPT             
 ┃♔ Version: 1.0.0                   
 ┗━━━━━━━━━━━━━━━┛
 */
-//========RIKZZ========
+//========WIBEEX========
 global.prefix = [".", "!", ".", ",", "🐤", "🗿"]; 
 global.publik = true
-global.owner = ["6283134463914"] 
-global.namabot = 'Lynex-v2'
+global.owner = ["18284381694"] 
+global.namabot = 'WIBEEX-V2'
 //======================
 global.mess = { 
 owner: 'Waduhh! ,Lu bukan owner gw bg🗣️',
