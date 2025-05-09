@@ -1,13 +1,13 @@
 /*
 ┏━━━━━━━━━━━━━━━┓  
-┃ RIKZZ BASE - WHATSAPP     
+┃ WIBEEX BASE - WHATSAPP     
 ┣━━━━━━━━━━━━━━━┛
-┃♕ Creator: RikzzZhiro           
+┃♕ Creator: WILBERT           
 ┃♕ AI Helper: ChatGPT             
 ┃♔ Version: 1.0.0                   
 ┗━━━━━━━━━━━━━━━┛
 */
-//========RIKZZ========
+//========WIBEEX========
 const fs = require("fs-extra");
 const toMs = require("ms");
 //======================
